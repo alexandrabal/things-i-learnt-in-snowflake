@@ -1,2 +1,2 @@
 # things-i-learnt-in-snowflake
-sf
+'£' || TO_CHAR(ROUND(MAX(amount_in_home_currency), 0), '999,999,999') AS AMOUNT_GBP,
